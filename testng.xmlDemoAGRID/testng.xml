@@ -1,0 +1,9 @@
+<suite name="Suite">
+  <test  name="Test">
+    <parameter name="ip" value="192.168.146.1"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="grid.DemoA"/>
+    </classes>
+  </test> 
+</suite> 

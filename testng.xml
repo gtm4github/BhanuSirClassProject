@@ -1,0 +1,16 @@
+<suite name="Suite">
+  <test name="MyLaptop">
+   <parameter name="ip" value="192.168.146.1"/>
+   <parameter name="browser" value="firefox"/>
+     <classes>
+      <class name="grid.DemoC"/>
+    </classes>
+  </test> 
+  <test name="FriendLaptop">
+   <parameter name="ip" value="192.168.146.3"/>
+   <parameter name="browser" value="chrome"/>
+     <classes>
+      <class name="grid.DemoC"/>
+    </classes>
+  </test> 
+</suite> 

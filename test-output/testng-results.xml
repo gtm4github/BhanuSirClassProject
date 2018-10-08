@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2018-09-30T19:16:01Z" finished-at="2018-09-30T19:16:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2018-09-30T19:16:01Z" finished-at="2018-09-30T19:16:01Z">
+      <class name="propertyFile.DemoProperty">
+        <test-method status="PASS" signature="getData()[pri:0, instance:propertyFile.DemoProperty@1f57539]" name="getData" duration-ms="15" started-at="2018-09-30T19:16:01Z" finished-at="2018-09-30T19:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- propertyFile.DemoProperty -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
